@@ -1,0 +1,13 @@
+.idea/
+target/
+*.iml
+*.log
+generated/
+.settings/
+.project
+.classpath
+coverage-reports/
+*.zip
+*.bpmn2d
+bin/
+allure-results/
